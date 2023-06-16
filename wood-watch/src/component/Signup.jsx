@@ -28,9 +28,9 @@ function Signup(){
          </Card>
          
         <Card w={"50%"} bg='rgb(83,63,34)' m={"auto"} h={"90vh"} color={"white"}>
-        {/* <Box> */}
+        
         <Center  color='white'>
-        {/* <Box bg='rgb(83,63,34)' w='100%' p={4} color='white'> */}
+        
   
              <div>
         
@@ -57,9 +57,9 @@ function Signup(){
 
         </FormControl>
         </div>
-        {/* </Box> */}
+        
         </Center>
-        {/* </Box> */}
+        
         </Card>
         
         
