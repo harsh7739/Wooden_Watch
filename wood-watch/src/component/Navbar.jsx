@@ -11,6 +11,8 @@ function Navbar(){
         <Link to="/" style={{color:"orange",textDecoration:"none"}}>Home</Link>
         <Link to="/login" style={{color:"orange",textDecoration:"none"}}>Login</Link>
         <Link to="/signup" style={{color:"orange",textDecoration:"none"}}>Signup</Link>
+        <Link to="/product" style={{color:"orange",textDecoration:"none"}}>Product</Link>
+        <Link to="/admin" style={{color:"orange",textDecoration:"none"}}>Admin</Link>
         </Flex>
         </>
     )
