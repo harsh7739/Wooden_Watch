@@ -9,7 +9,7 @@ function Home(){
 
             
         </div>
-        <img src="https://cdn.webshopapp.com/shops/255731/themes/140444/v/392346/assets/index-banner-2-background.jpg?20201208135934" alt="" style={{width:"100%"}}/>
+        <img src="https://cdn.webshopapp.com/shops/255731/themes/140444/v/392346/assets/index-banner-2-background.jpg?20201208135934" alt="" style={{width:"100%",minHeight:"100vh"}}/>
         </>
     )
 }

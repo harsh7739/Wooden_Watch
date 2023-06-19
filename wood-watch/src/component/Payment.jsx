@@ -29,9 +29,9 @@ function Payment(){
   <FormLabel>Enter Card Number </FormLabel>
   <Input type='number' placeholder='Card Number' required />
   <FormLabel>Enter Card expiry date</FormLabel>
-  <Input type='text' placeholder='date of expiry' required/>
+  <Input type='date' placeholder='date of expiry' required/>
   <FormLabel>Enter CVV</FormLabel>
-  <Input type='text' placeholder='CVV' required/>
+  <Input type='password' placeholder='CVV' required/>
   
 
 <input type="submit" value={"pay"} style={{backgroundColor:"red",color:"white",

@@ -56,7 +56,7 @@ function Add(){
   <Input type='text' name="price" />
   
   <FormLabel>Enter rating</FormLabel>
-  <Input type='text' name="rating" />
+  <Input type='number' name="rating" />
 
 <input type="submit" value={"submit"} style={{padding:"10px",backgroundColor:"red",color:"white"}}/>
   
